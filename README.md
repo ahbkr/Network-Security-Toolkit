@@ -27,5 +27,5 @@ Instead of just checking if a TCP handshake completes, NetRecon interacts with o
 No `pip install` required. NetRecon relies entirely on standard Python libraries.
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Network-Security-Toolkit.git](https://github.com/YOUR_USERNAME/Network-Security-Toolkit.git)
+git clone [https://github.com/ahbkr/Network-Security-Toolkit.git](https://github.com/YOUR_USERNAME/Network-Security-Toolkit.git)
 cd Network-Security-Toolkit
